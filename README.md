@@ -1,1 +1,2 @@
-# algorithm
+# javascript
+Learning Javascript
